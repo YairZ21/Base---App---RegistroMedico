@@ -42,13 +42,14 @@ Voll Med API es una API RESTful que permite registrar, listar, actualizar y elim
 - Spring Data JPA
 - Maven
 - SQL (MySQL, PostgreSQL, etc.)
+- Insomnia
 
 ---
 
 ## ⚡ Instalación Rápida
 
 1. Clona el repositorio  
-   `git clone https://github.com/tu-usuario/tu-repo.git`
+
 
 2. Accede al directorio  
    `cd tu-repo`
@@ -91,6 +92,7 @@ Voll Med API es una API RESTful que permite registrar, listar, actualizar y elim
 
 ¡Las contribuciones son bienvenidas!  
 Abre un issue o pull request para sugerencias, mejoras o reportar bugs.
+Email = yairandrezunig4@gmail.com
 
 ---
 
