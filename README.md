@@ -92,7 +92,8 @@ Voll Med API es una API RESTful que permite registrar, listar, actualizar y elim
 
 ¡Las contribuciones son bienvenidas!  
 Abre un issue o pull request para sugerencias, mejoras o reportar bugs.
-Email = yairandrezunig4@gmail.com
+
+Contacto = yairandrezunig4@gmail.com
 
 ---
 
