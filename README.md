@@ -1,5 +1,4 @@
-
-# 🏥 Voll Med API - Gestión de Médicos y Pacientes
+# 🏥 Voll Med API - Gestión de Médicos y Pacientes Version Beta 1.0
 
 ¡Bienvenido a **Voll Med API**!  
 Una solución moderna y robusta para la gestión de médicos y pacientes en clínicas y centros de salud, desarrollada con **Java 17**, **Spring Boot** y **Maven**.
