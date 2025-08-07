@@ -1,4 +1,3 @@
-¡Por supuesto! Aquí tienes un README llamativo y dinámico para tu proyecto:
 
 # 🏥 Voll Med API - Gestión de Médicos y Pacientes
 
